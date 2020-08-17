@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "your_plugin_id_here",
+        "name": "YourPluginNameHere",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
